@@ -1,0 +1,613 @@
+Month,Days,City,Inches,Milli­metres
+01-Jan,11,"Atlanta, Georgia",4.2,107
+02-Feb,10,"Atlanta, Georgia",4.7,119
+03-Mar,10,"Atlanta, Georgia",4.8,122
+04-Apr,9,"Atlanta, Georgia",3.4,85
+05-May,9,"Atlanta, Georgia",3.7,93
+06-Jun,12,"Atlanta, Georgia",5.3,134
+07-Jul,12,"Atlanta, Georgia",5.3,134
+08-Aug,10,"Atlanta, Georgia",3.9,99
+09-Sep,8,"Atlanta, Georgia",4.5,114
+10-Oct,7,"Atlanta, Georgia",3.4,87
+11-Nov,9,"Atlanta, Georgia",4.1,104
+12-Dec,11,"Atlanta, Georgia",3.9,99
+01-Jan,7,"Austin, Texas",2.2,56
+02-Feb,7,"Austin, Texas",2.0,51
+03-Mar,9,"Austin, Texas",2.8,70
+04-Apr,7,"Austin, Texas",2.1,53
+05-May,9,"Austin, Texas",4.4,111
+06-Jun,5,"Austin, Texas",1.9,48
+07-Jul,5,"Austin, Texas",1.9,48
+08-Aug,5,"Austin, Texas",2.4,60
+09-Sep,7,"Austin, Texas",3.0,76
+10-Oct,8,"Austin, Texas",3.9,99
+11-Nov,8,"Austin, Texas",3.0,75
+12-Dec,8,"Austin, Texas",2.4,61
+01-Jan,10,"Baltimore, Maryland",3.1,77
+02-Feb,9,"Baltimore, Maryland",2.9,74
+03-Mar,10,"Baltimore, Maryland",3.9,99
+04-Apr,11,"Baltimore, Maryland",3.2,81
+05-May,11,"Baltimore, Maryland",4.0,101
+06-Jun,10,"Baltimore, Maryland",4.1,103
+07-Jul,10,"Baltimore, Maryland",4.1,103
+08-Aug,9,"Baltimore, Maryland",3.3,84
+09-Sep,9,"Baltimore, Maryland",4.0,102
+10-Oct,8,"Baltimore, Maryland",3.3,85
+11-Nov,9,"Baltimore, Maryland",3.3,84
+12-Dec,10,"Baltimore, Maryland",3.4,86
+01-Jan,11,"Birmingham, Alabama",4.8,123
+02-Feb,10,"Birmingham, Alabama",4.5,115
+03-Mar,10,"Birmingham, Alabama",5.2,133
+04-Apr,9,"Birmingham, Alabama",4.4,111
+05-May,10,"Birmingham, Alabama",5.0,127
+06-Jun,12,"Birmingham, Alabama",4.8,122
+07-Jul,12,"Birmingham, Alabama",4.8,122
+08-Aug,10,"Birmingham, Alabama",3.9,100
+09-Sep,7,"Birmingham, Alabama",3.9,99
+10-Oct,8,"Birmingham, Alabama",3.4,87
+11-Nov,9,"Birmingham, Alabama",4.9,123
+12-Dec,10,"Birmingham, Alabama",4.5,113
+01-Jan,11,"Boston, Massachusetts",3.4,85
+02-Feb,10,"Boston, Massachusetts",3.3,83
+03-Mar,12,"Boston, Massachusetts",4.3,110
+04-Apr,11,"Boston, Massachusetts",3.7,95
+05-May,12,"Boston, Massachusetts",3.5,89
+06-Jun,10,"Boston, Massachusetts",3.4,87
+07-Jul,10,"Boston, Massachusetts",3.4,87
+08-Aug,9,"Boston, Massachusetts",3.4,85
+09-Sep,9,"Boston, Massachusetts",3.4,87
+10-Oct,9,"Boston, Massachusetts",3.9,100
+11-Nov,11,"Boston, Massachusetts",4.0,101
+12-Dec,12,"Boston, Massachusetts",3.8,96
+01-Jan,19,"Buffalo, New York",3.2,81
+02-Feb,16,"Buffalo, New York",2.5,63
+03-Mar,15,"Buffalo, New York",2.9,73
+04-Apr,13,"Buffalo, New York",3.0,76
+05-May,13,"Buffalo, New York",3.5,88
+06-Jun,11,"Buffalo, New York",3.2,82
+07-Jul,11,"Buffalo, New York",3.2,82
+08-Aug,10,"Buffalo, New York",3.3,83
+09-Sep,11,"Buffalo, New York",3.9,99
+10-Oct,13,"Buffalo, New York",3.5,89
+11-Nov,15,"Buffalo, New York",4.0,102
+12-Dec,18,"Buffalo, New York",3.9,99
+01-Jan,10,"Charlotte, North Carolina",3.4,87
+02-Feb,9,"Charlotte, North Carolina",3.3,84
+03-Mar,10,"Charlotte, North Carolina",4.0,102
+04-Apr,9,"Charlotte, North Carolina",3.0,77
+05-May,10,"Charlotte, North Carolina",3.2,81
+06-Jun,11,"Charlotte, North Carolina",3.7,93
+07-Jul,11,"Charlotte, North Carolina",3.7,93
+08-Aug,10,"Charlotte, North Carolina",4.2,107
+09-Sep,7,"Charlotte, North Carolina",3.2,82
+10-Oct,7,"Charlotte, North Carolina",3.4,86
+11-Nov,8,"Charlotte, North Carolina",3.1,80
+12-Dec,10,"Charlotte, North Carolina",3.3,83
+01-Jan,11,"Chicago, Illinois",1.7,44
+02-Feb,9,"Chicago, Illinois",1.8,45
+03-Mar,11,"Chicago, Illinois",2.5,64
+04-Apr,12,"Chicago, Illinois",3.4,86
+05-May,12,"Chicago, Illinois",3.7,93
+06-Jun,10,"Chicago, Illinois",3.7,94
+07-Jul,10,"Chicago, Illinois",3.7,94
+08-Aug,10,"Chicago, Illinois",4.9,124
+09-Sep,8,"Chicago, Illinois",3.2,82
+10-Oct,10,"Chicago, Illinois",3.2,80
+11-Nov,11,"Chicago, Illinois",3.2,80
+12-Dec,11,"Chicago, Illinois",2.3,57
+01-Jan,11,"Cincinnati, Ohio",2.8,72
+02-Feb,10,"Cincinnati, Ohio",2.5,65
+03-Mar,12,"Cincinnati, Ohio",3.9,99
+04-Apr,13,"Cincinnati, Ohio",3.9,98
+05-May,13,"Cincinnati, Ohio",5.0,128
+06-Jun,12,"Cincinnati, Ohio",3.9,98
+07-Jul,12,"Cincinnati, Ohio",3.9,98
+08-Aug,11,"Cincinnati, Ohio",3.6,92
+09-Sep,11,"Cincinnati, Ohio",2.8,72
+10-Oct,10,"Cincinnati, Ohio",3.1,79
+11-Nov,11,"Cincinnati, Ohio",3.2,81
+12-Dec,12,"Cincinnati, Ohio",3.2,80
+01-Jan,17,"Cleveland, Ohio",2.7,69
+02-Feb,14,"Cleveland, Ohio",2.3,59
+03-Mar,14,"Cleveland, Ohio",2.9,74
+04-Apr,14,"Cleveland, Ohio",3.5,89
+05-May,13,"Cleveland, Ohio",3.7,93
+06-Jun,10,"Cleveland, Ohio",3.5,88
+07-Jul,10,"Cleveland, Ohio",3.5,88
+08-Aug,10,"Cleveland, Ohio",3.5,89
+09-Sep,10,"Cleveland, Ohio",3.8,97
+10-Oct,11,"Cleveland, Ohio",3.1,78
+11-Nov,14,"Cleveland, Ohio",3.6,92
+12-Dec,16,"Cleveland, Ohio",3.1,79
+01-Jan,14,"Columbus, Ohio",2.7,69
+02-Feb,11,"Columbus, Ohio",2.3,57
+03-Mar,13,"Columbus, Ohio",3.0,77
+04-Apr,14,"Columbus, Ohio",3.4,86
+05-May,14,"Columbus, Ohio",4.2,106
+06-Jun,11,"Columbus, Ohio",4.8,122
+07-Jul,11,"Columbus, Ohio",4.8,122
+08-Aug,9,"Columbus, Ohio",3.3,84
+09-Sep,8,"Columbus, Ohio",2.8,72
+10-Oct,9,"Columbus, Ohio",2.6,66
+11-Nov,11,"Columbus, Ohio",3.2,81
+12-Dec,13,"Columbus, Ohio",3.0,75
+01-Jan,7,"Dallas, Texas",2.1,52
+02-Feb,7,"Dallas, Texas",2.6,66
+03-Mar,8,"Dallas, Texas",3.5,89
+04-Apr,7,"Dallas, Texas",3.1,78
+05-May,10,"Dallas, Texas",4.9,125
+06-Jun,5,"Dallas, Texas",2.2,56
+07-Jul,5,"Dallas, Texas",2.2,56
+08-Aug,5,"Dallas, Texas",1.9,47
+09-Sep,5,"Dallas, Texas",2.8,72
+10-Oct,8,"Dallas, Texas",4.8,122
+11-Nov,7,"Dallas, Texas",2.9,73
+12-Dec,7,"Dallas, Texas",2.7,70
+01-Jan,5,"Denver, Colorado",0.5,12
+02-Feb,6,"Denver, Colorado",0.5,12
+03-Mar,7,"Denver, Colorado",1.3,32
+04-Apr,8,"Denver, Colorado",1.7,44
+05-May,11,"Denver, Colorado",2.3,58
+06-Jun,9,"Denver, Colorado",2.1,52
+07-Jul,9,"Denver, Colorado",2.1,52
+08-Aug,9,"Denver, Colorado",2.1,52
+09-Sep,7,"Denver, Colorado",1.1,27
+10-Oct,5,"Denver, Colorado",1.1,27
+11-Nov,6,"Denver, Colorado",0.8,21
+12-Dec,5,"Denver, Colorado",0.6,15
+01-Jan,13,"Detroit, Michigan",2.0,50
+02-Feb,11,"Detroit, Michigan",2.0,51
+03-Mar,12,"Detroit, Michigan",2.3,58
+04-Apr,12,"Detroit, Michigan",2.9,74
+05-May,12,"Detroit, Michigan",3.4,86
+06-Jun,10,"Detroit, Michigan",3.4,86
+07-Jul,10,"Detroit, Michigan",3.4,86
+08-Aug,10,"Detroit, Michigan",3.0,76
+09-Sep,10,"Detroit, Michigan",3.3,83
+10-Oct,10,"Detroit, Michigan",2.5,64
+11-Nov,12,"Detroit, Michigan",2.8,71
+12-Dec,14,"Detroit, Michigan",2.5,62
+01-Jan,11,"Hartford, Connecticut",3.2,82
+02-Feb,10,"Hartford, Connecticut",2.9,73
+03-Mar,12,"Hartford, Connecticut",3.6,92
+04-Apr,11,"Hartford, Connecticut",3.7,94
+05-May,13,"Hartford, Connecticut",4.4,110
+06-Jun,10,"Hartford, Connecticut",4.2,106
+07-Jul,10,"Hartford, Connecticut",4.2,106
+08-Aug,10,"Hartford, Connecticut",3.9,100
+09-Sep,10,"Hartford, Connecticut",3.9,99
+10-Oct,10,"Hartford, Connecticut",4.4,111
+11-Nov,11,"Hartford, Connecticut",3.9,99
+12-Dec,11,"Hartford, Connecticut",3.4,87
+01-Jan,10,"Houston, Texas",3.4,86
+02-Feb,9,"Houston, Texas",3.2,81
+03-Mar,9,"Houston, Texas",3.4,87
+04-Apr,7,"Houston, Texas",3.3,84
+05-May,8,"Houston, Texas",5.1,129
+06-Jun,9,"Houston, Texas",3.8,96
+07-Jul,9,"Houston, Texas",3.8,96
+08-Aug,8,"Houston, Texas",3.8,96
+09-Sep,8,"Houston, Texas",4.1,105
+10-Oct,8,"Houston, Texas",5.7,145
+11-Nov,8,"Houston, Texas",4.3,110
+12-Dec,10,"Houston, Texas",3.7,95
+01-Jan,12,"Indianapolis, Indiana",2.7,68
+02-Feb,10,"Indianapolis, Indiana",2.3,59
+03-Mar,12,"Indianapolis, Indiana",3.6,90
+04-Apr,12,"Indianapolis, Indiana",3.8,97
+05-May,13,"Indianapolis, Indiana",5.1,128
+06-Jun,11,"Indianapolis, Indiana",4.6,116
+07-Jul,11,"Indianapolis, Indiana",4.6,116
+08-Aug,9,"Indianapolis, Indiana",3.1,80
+09-Sep,8,"Indianapolis, Indiana",3.1,79
+10-Oct,9,"Indianapolis, Indiana",3.1,79
+11-Nov,11,"Indianapolis, Indiana",3.7,94
+12-Dec,13,"Indianapolis, Indiana",3.2,81
+01-Jan,8,"Jacksonville, Florida",3.3,84
+02-Feb,8,"Jacksonville, Florida",3.2,81
+03-Mar,8,"Jacksonville, Florida",4.0,100
+04-Apr,6,"Jacksonville, Florida",2.6,67
+05-May,6,"Jacksonville, Florida",2.5,63
+06-Jun,14,"Jacksonville, Florida",6.6,166
+07-Jul,14,"Jacksonville, Florida",6.6,166
+08-Aug,15,"Jacksonville, Florida",6.8,173
+09-Sep,12,"Jacksonville, Florida",8.2,208
+10-Oct,8,"Jacksonville, Florida",3.9,100
+11-Nov,7,"Jacksonville, Florida",2.1,54
+12-Dec,7,"Jacksonville, Florida",2.8,71
+01-Jan,5,"Kansas City, Missouri",1.1,29
+02-Feb,5,"Kansas City, Missouri",1.5,38
+03-Mar,8,"Kansas City, Missouri",2.2,55
+04-Apr,9,"Kansas City, Missouri",3.7,94
+05-May,11,"Kansas City, Missouri",5.1,130
+06-Jun,8,"Kansas City, Missouri",4.0,101
+07-Jul,8,"Kansas City, Missouri",4.0,101
+08-Aug,8,"Kansas City, Missouri",4.4,112
+09-Sep,8,"Kansas City, Missouri",4.2,106
+10-Oct,8,"Kansas City, Missouri",3.5,89
+11-Nov,6,"Kansas City, Missouri",2.1,54
+12-Dec,5,"Kansas City, Missouri",1.8,44
+01-Jan,3,"Las Vegas, Nevada",0.5,14
+02-Feb,4,"Las Vegas, Nevada",0.8,19
+03-Mar,3,"Las Vegas, Nevada",0.4,11
+04-Apr,2,"Las Vegas, Nevada",0.2,4
+05-May,1,"Las Vegas, Nevada",0.1,3
+06-Jun,3,"Las Vegas, Nevada",0.4,10
+07-Jul,3,"Las Vegas, Nevada",0.4,10
+08-Aug,3,"Las Vegas, Nevada",0.3,8
+09-Sep,2,"Las Vegas, Nevada",0.3,6
+10-Oct,2,"Las Vegas, Nevada",0.3,7
+11-Nov,2,"Las Vegas, Nevada",0.4,9
+12-Dec,3,"Las Vegas, Nevada",0.5,13
+01-Jan,6,"Los Angeles, California",2.7,69
+02-Feb,7,"Los Angeles, California",3.3,83
+03-Mar,6,"Los Angeles, California",1.9,47
+04-Apr,3,"Los Angeles, California",0.7,18
+05-May,1,"Los Angeles, California",0.2,6
+06-Jun,1,"Los Angeles, California",0.0,1
+07-Jul,1,"Los Angeles, California",0.0,1
+08-Aug,0,"Los Angeles, California",0.1,1
+09-Sep,1,"Los Angeles, California",0.2,5
+10-Oct,2,"Los Angeles, California",0.6,14
+11-Nov,3,"Los Angeles, California",1.1,28
+12-Dec,5,"Los Angeles, California",2.1,52
+01-Jan,10,"Louisville, Kentucky",3.2,82
+02-Feb,10,"Louisville, Kentucky",3.2,81
+03-Mar,12,"Louisville, Kentucky",4.2,106
+04-Apr,12,"Louisville, Kentucky",4.0,102
+05-May,13,"Louisville, Kentucky",5.3,134
+06-Jun,10,"Louisville, Kentucky",4.2,107
+07-Jul,10,"Louisville, Kentucky",4.2,107
+08-Aug,8,"Louisville, Kentucky",3.3,85
+09-Sep,8,"Louisville, Kentucky",3.1,77
+10-Oct,8,"Louisville, Kentucky",3.2,82
+11-Nov,10,"Louisville, Kentucky",3.6,91
+12-Dec,12,"Louisville, Kentucky",3.8,97
+01-Jan,10,"Memphis, Tennessee",4.0,101
+02-Feb,9,"Memphis, Tennessee",4.4,112
+03-Mar,11,"Memphis, Tennessee",5.2,131
+04-Apr,10,"Memphis, Tennessee",5.5,140
+05-May,10,"Memphis, Tennessee",5.3,133
+06-Jun,9,"Memphis, Tennessee",4.6,117
+07-Jul,9,"Memphis, Tennessee",4.6,117
+08-Aug,7,"Memphis, Tennessee",2.9,73
+09-Sep,7,"Memphis, Tennessee",3.1,78
+10-Oct,8,"Memphis, Tennessee",4.0,101
+11-Nov,10,"Memphis, Tennessee",5.5,139
+12-Dec,10,"Memphis, Tennessee",5.7,146
+01-Jan,7,"Miami, Florida",1.6,41
+02-Feb,7,"Miami, Florida",2.3,57
+03-Mar,7,"Miami, Florida",3.0,76
+04-Apr,6,"Miami, Florida",3.1,80
+05-May,10,"Miami, Florida",5.3,136
+06-Jun,17,"Miami, Florida",6.5,165
+07-Jul,17,"Miami, Florida",6.5,165
+08-Aug,19,"Miami, Florida",8.9,226
+09-Sep,18,"Miami, Florida",9.9,250
+10-Oct,13,"Miami, Florida",6.3,161
+11-Nov,8,"Miami, Florida",3.3,83
+12-Dec,7,"Miami, Florida",2.0,52
+01-Jan,11,"Milwaukee, Wisconsin",1.8,45
+02-Feb,10,"Milwaukee, Wisconsin",1.7,42
+03-Mar,11,"Milwaukee, Wisconsin",2.3,58
+04-Apr,12,"Milwaukee, Wisconsin",3.6,90
+05-May,11,"Milwaukee, Wisconsin",3.4,86
+06-Jun,10,"Milwaukee, Wisconsin",3.7,93
+07-Jul,10,"Milwaukee, Wisconsin",3.7,93
+08-Aug,10,"Milwaukee, Wisconsin",4.0,101
+09-Sep,9,"Milwaukee, Wisconsin",3.2,81
+10-Oct,10,"Milwaukee, Wisconsin",2.7,67
+11-Nov,11,"Milwaukee, Wisconsin",2.7,69
+12-Dec,11,"Milwaukee, Wisconsin",2.0,52
+01-Jan,9,"Minneapolis, Minnesota",0.9,23
+02-Feb,7,"Minneapolis, Minnesota",0.8,20
+03-Mar,9,"Minneapolis, Minnesota",1.9,48
+04-Apr,11,"Minneapolis, Minnesota",2.7,68
+05-May,12,"Minneapolis, Minnesota",3.4,85
+06-Jun,10,"Minneapolis, Minnesota",4.0,103
+07-Jul,10,"Minneapolis, Minnesota",4.0,103
+08-Aug,10,"Minneapolis, Minnesota",4.3,109
+09-Sep,10,"Minneapolis, Minnesota",3.1,78
+10-Oct,9,"Minneapolis, Minnesota",2.4,62
+11-Nov,9,"Minneapolis, Minnesota",1.8,45
+12-Dec,10,"Minneapolis, Minnesota",1.2,29
+01-Jan,10,"Nashville, Tennessee",3.8,95
+02-Feb,10,"Nashville, Tennessee",3.9,100
+03-Mar,11,"Nashville, Tennessee",4.1,104
+04-Apr,11,"Nashville, Tennessee",4.0,102
+05-May,12,"Nashville, Tennessee",5.5,140
+06-Jun,10,"Nashville, Tennessee",3.6,92
+07-Jul,10,"Nashville, Tennessee",3.6,92
+08-Aug,8,"Nashville, Tennessee",3.2,81
+09-Sep,8,"Nashville, Tennessee",3.4,87
+10-Oct,8,"Nashville, Tennessee",3.0,77
+11-Nov,10,"Nashville, Tennessee",4.3,109
+12-Dec,11,"Nashville, Tennessee",4.2,108
+01-Jan,9,"New Orleans, Louisiana",5.2,131
+02-Feb,9,"New Orleans, Louisiana",5.3,135
+03-Mar,8,"New Orleans, Louisiana",4.6,116
+04-Apr,7,"New Orleans, Louisiana",4.6,117
+05-May,8,"New Orleans, Louisiana",4.6,118
+06-Jun,14,"New Orleans, Louisiana",5.9,151
+07-Jul,14,"New Orleans, Louisiana",5.9,151
+08-Aug,13,"New Orleans, Louisiana",6.0,152
+09-Sep,9,"New Orleans, Louisiana",5.1,128
+10-Oct,8,"New Orleans, Louisiana",3.6,91
+11-Nov,8,"New Orleans, Louisiana",4.5,114
+12-Dec,9,"New Orleans, Louisiana",5.3,135
+01-Jan,10,"New York, New York",3.7,93
+02-Feb,9,"New York, New York",3.1,78
+03-Mar,11,"New York, New York",4.4,111
+04-Apr,12,"New York, New York",4.5,114
+05-May,11,"New York, New York",4.2,106
+06-Jun,10,"New York, New York",4.6,117
+07-Jul,10,"New York, New York",4.6,117
+08-Aug,10,"New York, New York",4.4,113
+09-Sep,9,"New York, New York",4.3,109
+10-Oct,9,"New York, New York",4.4,112
+11-Nov,10,"New York, New York",4.0,102
+12-Dec,11,"New York, New York",4.0,102
+01-Jan,5,"Oklahoma City, Oklahoma",1.4,35
+02-Feb,6,"Oklahoma City, Oklahoma",1.6,40
+03-Mar,8,"Oklahoma City, Oklahoma",3.1,78
+04-Apr,8,"Oklahoma City, Oklahoma",3.1,78
+05-May,10,"Oklahoma City, Oklahoma",4.7,118
+06-Jun,6,"Oklahoma City, Oklahoma",2.9,74
+07-Jul,6,"Oklahoma City, Oklahoma",2.9,74
+08-Aug,7,"Oklahoma City, Oklahoma",3.3,83
+09-Sep,7,"Oklahoma City, Oklahoma",4.1,103
+10-Oct,8,"Oklahoma City, Oklahoma",3.7,94
+11-Nov,6,"Oklahoma City, Oklahoma",2.0,50
+12-Dec,6,"Oklahoma City, Oklahoma",1.9,48
+01-Jan,7,"Orlando, Florida",2.4,60
+02-Feb,7,"Orlando, Florida",2.4,60
+03-Mar,7,"Orlando, Florida",3.8,96
+04-Apr,6,"Orlando, Florida",2.7,68
+05-May,8,"Orlando, Florida",3.5,88
+06-Jun,16,"Orlando, Florida",7.3,185
+07-Jul,16,"Orlando, Florida",7.3,185
+08-Aug,17,"Orlando, Florida",7.1,181
+09-Sep,13,"Orlando, Florida",6.1,154
+10-Oct,8,"Orlando, Florida",3.3,84
+11-Nov,6,"Orlando, Florida",2.2,55
+12-Dec,7,"Orlando, Florida",2.6,66
+01-Jan,11,"Philadelphia, Pennsylvania",3.0,77
+02-Feb,9,"Philadelphia, Pennsylvania",2.7,67
+03-Mar,11,"Philadelphia, Pennsylvania",3.8,96
+04-Apr,11,"Philadelphia, Pennsylvania",3.6,90
+05-May,11,"Philadelphia, Pennsylvania",3.7,94
+06-Jun,10,"Philadelphia, Pennsylvania",4.4,110
+07-Jul,10,"Philadelphia, Pennsylvania",4.4,110
+08-Aug,8,"Philadelphia, Pennsylvania",3.5,89
+09-Sep,9,"Philadelphia, Pennsylvania",3.8,96
+10-Oct,9,"Philadelphia, Pennsylvania",3.2,81
+11-Nov,9,"Philadelphia, Pennsylvania",3.0,76
+12-Dec,11,"Philadelphia, Pennsylvania",3.6,90
+01-Jan,4,"Phoenix, Arizona",1.0,25
+02-Feb,4,"Phoenix, Arizona",1.0,25
+03-Mar,4,"Phoenix, Arizona",1.1,27
+04-Apr,1,"Phoenix, Arizona",0.3,7
+05-May,1,"Phoenix, Arizona",0.1,2
+06-Jun,3,"Phoenix, Arizona",1.1,27
+07-Jul,3,"Phoenix, Arizona",1.1,27
+08-Aug,3,"Phoenix, Arizona",1.0,25
+09-Sep,3,"Phoenix, Arizona",0.6,15
+10-Oct,2,"Phoenix, Arizona",0.7,17
+11-Nov,2,"Phoenix, Arizona",0.7,17
+12-Dec,3,"Phoenix, Arizona",0.9,22
+01-Jan,16,"Pittsburgh, Pennsylvania",2.7,69
+02-Feb,14,"Pittsburgh, Pennsylvania",2.4,61
+03-Mar,14,"Pittsburgh, Pennsylvania",3.0,75
+04-Apr,14,"Pittsburgh, Pennsylvania",3.1,79
+05-May,13,"Pittsburgh, Pennsylvania",4.0,100
+06-Jun,10,"Pittsburgh, Pennsylvania",3.8,97
+07-Jul,10,"Pittsburgh, Pennsylvania",3.8,97
+08-Aug,10,"Pittsburgh, Pennsylvania",3.5,88
+09-Sep,10,"Pittsburgh, Pennsylvania",3.1,79
+10-Oct,11,"Pittsburgh, Pennsylvania",2.3,58
+11-Nov,13,"Pittsburgh, Pennsylvania",3.2,82
+12-Dec,15,"Pittsburgh, Pennsylvania",2.9,72
+01-Jan,21,"Portland, Oregon",6.1,154
+02-Feb,16,"Portland, Oregon",4.6,116
+03-Mar,19,"Portland, Oregon",4.5,114
+04-Apr,16,"Portland, Oregon",3.3,83
+05-May,15,"Portland, Oregon",2.7,69
+06-Jun,3,"Portland, Oregon",0.8,19
+07-Jul,3,"Portland, Oregon",0.8,19
+08-Aug,4,"Portland, Oregon",0.8,20
+09-Sep,7,"Portland, Oregon",1.6,40
+10-Oct,14,"Portland, Oregon",3.5,88
+11-Nov,19,"Portland, Oregon",6.8,173
+12-Dec,20,"Portland, Oregon",6.9,176
+01-Jan,11,"Providence, Rhode Island",3.9,98
+02-Feb,10,"Providence, Rhode Island",3.3,84
+03-Mar,12,"Providence, Rhode Island",5.0,127
+04-Apr,11,"Providence, Rhode Island",4.4,111
+05-May,12,"Providence, Rhode Island",3.6,90
+06-Jun,9,"Providence, Rhode Island",3.3,84
+07-Jul,9,"Providence, Rhode Island",3.3,84
+08-Aug,9,"Providence, Rhode Island",3.6,91
+09-Sep,9,"Providence, Rhode Island",3.9,100
+10-Oct,9,"Providence, Rhode Island",3.9,100
+11-Nov,10,"Providence, Rhode Island",4.5,115
+12-Dec,12,"Providence, Rhode Island",4.2,107
+01-Jan,9,"Raleigh, North Carolina",3.9,98
+02-Feb,8,"Raleigh, North Carolina",3.3,84
+03-Mar,9,"Raleigh, North Carolina",4.3,109
+04-Apr,8,"Raleigh, North Carolina",2.9,74
+05-May,9,"Raleigh, North Carolina",3.7,94
+06-Jun,10,"Raleigh, North Carolina",4.3,109
+07-Jul,10,"Raleigh, North Carolina",4.3,109
+08-Aug,9,"Raleigh, North Carolina",4.6,116
+09-Sep,7,"Raleigh, North Carolina",4.4,112
+10-Oct,6,"Raleigh, North Carolina",3.6,90
+11-Nov,7,"Raleigh, North Carolina",3.2,81
+12-Dec,9,"Raleigh, North Carolina",3.3,84
+01-Jan,10,"Richmond, Virginia",3.0,77
+02-Feb,9,"Richmond, Virginia",2.8,70
+03-Mar,10,"Richmond, Virginia",4.0,103
+04-Apr,10,"Richmond, Virginia",3.3,83
+05-May,11,"Richmond, Virginia",3.8,96
+06-Jun,11,"Richmond, Virginia",4.5,115
+07-Jul,11,"Richmond, Virginia",4.5,115
+08-Aug,9,"Richmond, Virginia",4.7,118
+09-Sep,8,"Richmond, Virginia",4.1,105
+10-Oct,7,"Richmond, Virginia",3.0,76
+11-Nov,8,"Richmond, Virginia",3.2,82
+12-Dec,10,"Richmond, Virginia",3.3,83
+01-Jan,6,"Riverside, California",2.1,53
+02-Feb,6,"Riverside, California",2.5,64
+03-Mar,5,"Riverside, California",1.7,42
+04-Apr,3,"Riverside, California",0.8,20
+05-May,1,"Riverside, California",0.2,4
+06-Jun,1,"Riverside, California",0.0,1
+07-Jul,1,"Riverside, California",0.0,1
+08-Aug,0,"Riverside, California",0.1,3
+09-Sep,1,"Riverside, California",0.1,3
+10-Oct,2,"Riverside, California",0.5,13
+11-Nov,3,"Riverside, California",0.8,21
+12-Dec,4,"Riverside, California",1.5,37
+01-Jan,19,"Rochester, New York",2.4,61
+02-Feb,16,"Rochester, New York",2.0,50
+03-Mar,15,"Rochester, New York",2.5,64
+04-Apr,13,"Rochester, New York",2.7,69
+05-May,12,"Rochester, New York",2.9,73
+06-Jun,11,"Rochester, New York",3.3,85
+07-Jul,11,"Rochester, New York",3.3,85
+08-Aug,11,"Rochester, New York",3.5,88
+09-Sep,12,"Rochester, New York",3.4,86
+10-Oct,13,"Rochester, New York",2.7,69
+11-Nov,15,"Rochester, New York",2.9,75
+12-Dec,18,"Rochester, New York",2.6,67
+01-Jan,10,"Sacramento, California",3.6,92
+02-Feb,9,"Sacramento, California",3.5,88
+03-Mar,9,"Sacramento, California",2.8,70
+04-Apr,5,"Sacramento, California",1.2,29
+05-May,3,"Sacramento, California",0.7,17
+06-Jun,0,"Sacramento, California",0.0,0
+07-Jul,0,"Sacramento, California",0.0,0
+08-Aug,0,"Sacramento, California",0.1,1
+09-Sep,1,"Sacramento, California",0.3,7
+10-Oct,4,"Sacramento, California",1.0,24
+11-Nov,7,"Sacramento, California",2.1,53
+12-Dec,10,"Sacramento, California",3.3,83
+01-Jan,10,"Salt Lake City, Utah",1.3,32
+02-Feb,9,"Salt Lake City, Utah",1.3,32
+03-Mar,10,"Salt Lake City, Utah",1.8,45
+04-Apr,10,"Salt Lake City, Utah",2.0,51
+05-May,9,"Salt Lake City, Utah",2.0,50
+06-Jun,4,"Salt Lake City, Utah",0.6,15
+07-Jul,4,"Salt Lake City, Utah",0.6,15
+08-Aug,5,"Salt Lake City, Utah",0.7,18
+09-Sep,6,"Salt Lake City, Utah",1.2,31
+10-Oct,7,"Salt Lake City, Utah",1.5,39
+11-Nov,9,"Salt Lake City, Utah",1.5,37
+12-Dec,10,"Salt Lake City, Utah",1.4,36
+01-Jan,7,"San Antonio, Texas",1.8,45
+02-Feb,7,"San Antonio, Texas",1.8,45
+03-Mar,9,"San Antonio, Texas",2.3,59
+04-Apr,6,"San Antonio, Texas",2.1,53
+05-May,9,"San Antonio, Texas",4.0,102
+06-Jun,5,"San Antonio, Texas",2.7,70
+07-Jul,5,"San Antonio, Texas",2.7,70
+08-Aug,5,"San Antonio, Texas",2.1,53
+09-Sep,7,"San Antonio, Texas",3.0,77
+10-Oct,7,"San Antonio, Texas",4.1,104
+11-Nov,7,"San Antonio, Texas",2.3,58
+12-Dec,8,"San Antonio, Texas",1.9,49
+01-Jan,7,"San Diego, California",2.0,50
+02-Feb,7,"San Diego, California",2.3,58
+03-Mar,7,"San Diego, California",1.8,46
+04-Apr,4,"San Diego, California",0.8,20
+05-May,1,"San Diego, California",0.1,3
+06-Jun,1,"San Diego, California",0.0,1
+07-Jul,1,"San Diego, California",0.0,1
+08-Aug,0,"San Diego, California",0.0,1
+09-Sep,1,"San Diego, California",0.2,4
+10-Oct,3,"San Diego, California",0.6,14
+11-Nov,4,"San Diego, California",1.0,26
+12-Dec,6,"San Diego, California",1.5,39
+01-Jan,11,"San Francisco, California",4.2,106
+02-Feb,11,"San Francisco, California",4.1,103
+03-Mar,11,"San Francisco, California",3.0,75
+04-Apr,6,"San Francisco, California",1.3,33
+05-May,3,"San Francisco, California",0.5,12
+06-Jun,0,"San Francisco, California",0.0,0
+07-Jul,0,"San Francisco, California",0.0,0
+08-Aug,0,"San Francisco, California",0.0,1
+09-Sep,1,"San Francisco, California",0.2,4
+10-Oct,3,"San Francisco, California",1.0,24
+11-Nov,8,"San Francisco, California",2.4,60
+12-Dec,11,"San Francisco, California",4.0,102
+01-Jan,10,"San Jose, California",3.1,78
+02-Feb,10,"San Jose, California",3.1,79
+03-Mar,9,"San Jose, California",2.5,65
+04-Apr,6,"San Jose, California",1.2,30
+05-May,3,"San Jose, California",0.5,13
+06-Jun,0,"San Jose, California",0.0,1
+07-Jul,0,"San Jose, California",0.0,1
+08-Aug,0,"San Jose, California",0.0,1
+09-Sep,1,"San Jose, California",0.2,5
+10-Oct,3,"San Jose, California",0.8,20
+11-Nov,7,"San Jose, California",1.7,43
+12-Dec,10,"San Jose, California",2.6,66
+01-Jan,16,"Seattle, Washington",5.5,139
+02-Feb,15,"Seattle, Washington",3.5,89
+03-Mar,17,"Seattle, Washington",3.9,98
+04-Apr,14,"Seattle, Washington",2.8,71
+05-May,12,"Seattle, Washington",2.0,51
+06-Jun,6,"Seattle, Washington",0.9,22
+07-Jul,6,"Seattle, Washington",0.9,22
+08-Aug,5,"Seattle, Washington",0.9,24
+09-Sep,8,"Seattle, Washington",1.3,33
+10-Oct,13,"Seattle, Washington",3.4,86
+11-Nov,18,"Seattle, Washington",6.0,152
+12-Dec,17,"Seattle, Washington",6.1,154
+01-Jan,9,"St. Louis, Missouri",2.4,61
+02-Feb,8,"St. Louis, Missouri",2.2,57
+03-Mar,10,"St. Louis, Missouri",3.3,84
+04-Apr,11,"St. Louis, Missouri",3.7,94
+05-May,12,"St. Louis, Missouri",4.7,120
+06-Jun,9,"St. Louis, Missouri",4.1,104
+07-Jul,9,"St. Louis, Missouri",4.1,104
+08-Aug,8,"St. Louis, Missouri",3.0,76
+09-Sep,7,"St. Louis, Missouri",3.1,80
+10-Oct,9,"St. Louis, Missouri",3.3,85
+11-Nov,10,"St. Louis, Missouri",3.9,99
+12-Dec,9,"St. Louis, Missouri",2.8,72
+01-Jan,7,"Tampa, Florida",2.2,57
+02-Feb,7,"Tampa, Florida",2.8,71
+03-Mar,7,"Tampa, Florida",3.0,77
+04-Apr,5,"Tampa, Florida",2.0,52
+05-May,6,"Tampa, Florida",2.1,53
+06-Jun,16,"Tampa, Florida",7.1,180
+07-Jul,16,"Tampa, Florida",7.1,180
+08-Aug,16,"Tampa, Florida",7.8,197
+09-Sep,12,"Tampa, Florida",6.3,160
+10-Oct,7,"Tampa, Florida",2.3,57
+11-Nov,5,"Tampa, Florida",1.6,39
+12-Dec,6,"Tampa, Florida",2.5,63
+01-Jan,10,"Virginia Beach, Virginia",3.4,86
+02-Feb,10,"Virginia Beach, Virginia",3.1,79
+03-Mar,11,"Virginia Beach, Virginia",3.7,93
+04-Apr,10,"Virginia Beach, Virginia",3.4,87
+05-May,11,"Virginia Beach, Virginia",3.4,87
+06-Jun,11,"Virginia Beach, Virginia",5.1,131
+07-Jul,11,"Virginia Beach, Virginia",5.1,131
+08-Aug,10,"Virginia Beach, Virginia",5.5,140
+09-Sep,9,"Virginia Beach, Virginia",4.8,121
+10-Oct,8,"Virginia Beach, Virginia",3.4,87
+11-Nov,9,"Virginia Beach, Virginia",3.2,80
+12-Dec,10,"Virginia Beach, Virginia",3.3,83
+01-Jan,10,"Washington, DC",2.8,71
+02-Feb,9,"Washington, DC",2.6,67
+03-Mar,11,"Washington, DC",3.5,88
+04-Apr,10,"Washington, DC",3.1,78
+05-May,11,"Washington, DC",4.0,101
+06-Jun,10,"Washington, DC",3.7,95
+07-Jul,10,"Washington, DC",3.7,95
+08-Aug,8,"Washington, DC",2.9,74
+09-Sep,8,"Washington, DC",3.7,94
+10-Oct,8,"Washington, DC",3.4,86
+11-Nov,9,"Washington, DC",3.2,81
+12-Dec,10,"Washington, DC",3.1,77
